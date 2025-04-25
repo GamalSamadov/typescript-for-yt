@@ -1,0 +1,28 @@
+{
+  "name": "ts-with-sammi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamalSamadov/ts-with-sammi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamalSamadov/ts-with-sammi/issues"
+  },
+  "homepage": "https://github.com/GamalSamadov/ts-with-sammi#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "parse-json": "^8.3.0",
+    "safe-json-parse": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2"
+  }
+}
