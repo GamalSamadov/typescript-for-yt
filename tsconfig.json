@@ -12,7 +12,7 @@
 		"removeComments": true,
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
-		"strict": true,
+		"alwaysStrict": true,
 		"strictNullChecks": true,
 		"strictPropertyInitialization": false,
 		"noUnusedLocals": true,
@@ -20,7 +20,9 @@
 		"noImplicitReturns": true,
 		"noFallthroughCasesInSwitch": true,
 		"skipLibCheck": true,
-		"experimentalDecorators": true
+		"experimentalDecorators": true,
+		"allowJs": true,
+		"checkJs": true
 	},
 	"include": ["**/*.ts"],
 	"exclude": ["node_modules"]
