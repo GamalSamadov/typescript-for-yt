@@ -8,8 +8,6 @@
 		"paths": {
 			"@/*": ["./*"]
 		},
-		"declaration": true,
-		"emitDeclarationOnly": true,
 		"outDir": "./dist",
 		"removeComments": true,
 		"esModuleInterop": true,

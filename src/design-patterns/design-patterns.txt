@@ -16,3 +16,4 @@ Behavioral Patterns:
 		3. Command
 		4. Iterator
 		5. Mediator
+		
