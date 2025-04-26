@@ -1,0 +1,2 @@
+State pattern = man qaysi holatdaman?
+Strategy pattern = man qaysi algaritmdan foidalanaman?
